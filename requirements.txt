@@ -1,0 +1,9 @@
+streamlit
+phidata==2.7.10
+groq
+python-dotenv
+yfinance
+pandas
+plotly
+requests
+openai

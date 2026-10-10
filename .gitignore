@@ -1,0 +1,21 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Older local versions/backups: commit only app.py
+app(1).py
+app_old.py
+financial_analyst
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
